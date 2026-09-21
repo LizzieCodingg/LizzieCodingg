@@ -7,6 +7,6 @@
 </p>
 
 <h1 align="center" style="color:#ff9eb5; margin-top:-60px;">
-  Lizzie's Github
+  🌸 Lizzie's Github 🌸
 </h1>
 
