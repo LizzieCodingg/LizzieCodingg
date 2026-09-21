@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="[![Uploading c9086e8a8fe199a938f7f5f42ff69d67.gif…]()](https://nl.pinterest.com/pin/636626097324651254/)
-" width="100%" />
+  <img src="https://i.pinimg.com/originals/8b/8a/0c/8b8a0c8f6b0f7f0d1f3f6e4e2c9e3b9f.gif" width="100%" />
 </p>
 
 <h1 align="center">Lizzie's Github</h1>
