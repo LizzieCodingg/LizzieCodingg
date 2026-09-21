@@ -6,13 +6,6 @@
   />
 </p>
 
-<h1 align="center"
-    style="
-      margin-top:-70px;
-      color:#ff9eb5;
-      font-size: 42px;
-      font-weight: 600;
-      font-family: 'Trebuchet MS', Verdana, sans-serif;
-    ">
+<h1 align="center" style="color:#ff9eb5; margin-top:-70px;">
   🌸 Lizzie's Github 🌸
 </h1>
