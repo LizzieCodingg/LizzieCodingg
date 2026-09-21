@@ -6,6 +6,7 @@
   />
 </p>
 
-<p align="center" style="font-size:182px; font-weight:600; margin-top:-40px;">
+<h1 align="center">
   🌸 Lizzie's Github 🌸
-</p>
+</h1>
+
