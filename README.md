@@ -6,9 +6,6 @@
   />
 </p>
 
-
-<p align="center" style="margin-top:-70px;">
-  <span style="color:#ff9eb5; font-size:40px; font-weight:600;">
-    🌸 Lizzie's Github 🌸
-  </span>
+<p align="center" style="font-size:42px; font-weight:600; margin-top:-40px;">
+  🌸 Lizzie's Github 🌸
 </p>
