@@ -8,12 +8,11 @@
 
 <h1 align="center"
     style="
-      margin-top:-85px;
+      margin-top:-70px;
       color:#ff9eb5;
-      font-family: 'Trebuchet MS', 'Verdana', 'Rounded Mplus 1c', sans-serif;
-      font-weight: 700;
-      letter-spacing: 1px;
-      text-shadow: 0px 0px 10px rgba(255, 158, 181, 0.7);
+      font-size: 42px;
+      font-weight: 600;
+      font-family: 'Trebuchet MS', Verdana, sans-serif;
     ">
   🌸 Lizzie's Github 🌸
 </h1>
