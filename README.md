@@ -6,8 +6,13 @@
   />
 </p>
 
-<h1 align="center" style="margin-top:-60px; font-family: 'Georgia';">
+<h1 align="center"
+    style="
+      margin-top:-70px;
+      color:#ffb7c5;
+      font-family: 'Trebuchet MS', 'Rounded Mplus 1c', 'Verdana', sans-serif;
+      font-weight: 600;
+      text-shadow: 0px 0px 8px rgba(255, 182, 193, 0.6);
+    ">
   🌸 Lizzie's Github 🌸
 </h1>
-
-
