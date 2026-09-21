@@ -16,9 +16,9 @@
 ## 🌸 About Me
 Hi! I’m Li — a web development student who loves:
 - cute UI aesthetics  
-- sakura‑themed designs  
+- soft spoken designs  
 - HTML/JS/PHP/CSS  
-- I love learning CSS animations  
+- learning CSS animations  
 - building cute‑styled websites, tho I can do more than that  
 
 ---
