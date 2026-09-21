@@ -10,3 +10,52 @@
   🌸 Lizzie's Github 🌸
 </h1>
 
+---
+
+## 🌸 About Me
+Hi! I’m Li — a web development student who loves:
+- cute UI aesthetics  
+- sakura‑themed designs  
+- PHP & MySQL  
+- CSS animations  
+- building boutique‑style webshops  
+
+---
+
+## 🌸 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 🌸 Current Project
+**Liz’s Boutique Webshop**  
+A full CRUD webshop with:
+- login & signup  
+- shopping cart  
+- product reviews  
+- sakura logo animation  
+- consistent layout across pages  
+
+---
+
+## 🌸 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LizzieCodingg&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizzieCodingg&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌸 Contact
+<p align="center">
+  <b>GitHub:</b> @LizzieCodingg  
+</p>
