@@ -6,7 +6,12 @@
   />
 </p>
 
-<p align="center" style="color:#ff9eb5; font-size:40px; font-weight:600; margin-top:-70px;">
+<p align="center" 
+   style="
+     color: rgb(255, 150, 170) !important;
+     font-size: 40px;
+     font-weight: 600;
+     margin-top: -70px;
+   ">
   🌸 Lizzie's Github 🌸
 </p>
-
