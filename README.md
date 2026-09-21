@@ -6,4 +6,7 @@
   />
 </p>
 
-<h1 align="center" style="margin-top:-60px;">Lizzie's Github</h1>
+<h1 align="center" style="color:#ff9eb5; margin-top:-60px;">
+  Lizzie's Github
+</h1>
+
