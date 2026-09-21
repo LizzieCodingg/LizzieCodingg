@@ -6,7 +6,8 @@
   />
 </p>
 
-<h1 align="center" style="color:#ff9eb5; margin-top:-60px;">
+<h1 align="center" style="margin-top:-60px; font-family: 'Georgia';">
   🌸 Lizzie's Github 🌸
 </h1>
+
 
