@@ -17,9 +17,9 @@
 Hi! I’m Li — a web development student who loves:
 - cute UI aesthetics  
 - sakura‑themed designs  
-- PHP & MySQL  
-- CSS animations  
-- building boutique‑style webshops  
+- HTML/JS/PHP/CSS  
+- I love learning CSS animations  
+- building cute‑styled websites, tho I can do more than that  
 
 ---
 
