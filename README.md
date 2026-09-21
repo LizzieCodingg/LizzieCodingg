@@ -6,6 +6,6 @@
   />
 </p>
 
-<p align="center" style="font-size:42px; font-weight:600; margin-top:-40px;">
+<p align="center" style="font-size:82px; font-weight:600; margin-top:-40px;">
   🌸 Lizzie's Github 🌸
 </p>
