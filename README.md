@@ -14,7 +14,7 @@
 ---
 
 ## 🌸 About Me
-Hi! I’m Li — a web development student who loves:
+Hi! I’m Liz — a web development student who loves:
 - cute UI aesthetics  
 - soft spoken designs  
 - HTML/JS/PHP/CSS  
