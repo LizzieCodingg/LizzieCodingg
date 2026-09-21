@@ -45,17 +45,6 @@ A full CRUD webshop with:
 
 ---
 
-## 🌸 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LizzieCodingg&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizzieCodingg&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌸 Contact
 <p align="center">
   <b>GitHub:</b> @LizzieCodingg  
