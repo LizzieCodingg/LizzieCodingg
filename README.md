@@ -8,10 +8,11 @@
 
 <p align="center" 
    style="
-     color: rgb(255, 150, 170) !important;
+     color: #ff4f7b;
      font-size: 40px;
      font-weight: 600;
      margin-top: -70px;
    ">
   🌸 Lizzie's Github 🌸
 </p>
+
