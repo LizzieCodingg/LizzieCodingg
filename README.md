@@ -1,1 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=soft&color=ffb7c5&text=Lizzie's%20Github&fontColor=ffffff&fontSize=40&animation=fadeIn)
+<p align="center">
+  <img src="![Uploading c9086e8a8fe199a938f7f5f42ff69d67.gif…]()
+" width="100%" />
+</p>
+
+<h1 align="center">Lizzie's Github</h1>
