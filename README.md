@@ -50,4 +50,5 @@ A full CRUD webshop with:
 ## 🌸 Contact
 <p align="center">
   <b>GitHub:</b> @LizzieCodingg  
+  <b>Email:</b> Louisasophie2008@gmail.com
 </p>
