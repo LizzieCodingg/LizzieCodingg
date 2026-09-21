@@ -20,6 +20,7 @@ Hi! I’m Li — a web development student who loves:
 - HTML/JS/PHP/CSS  
 - learning CSS animations  
 - building cute‑styled websites, tho I can do more than that
+
 - I speak 4 languages: English, Dutch, German and Swedish. (I am still partly learning swedish)  
 
 ---
