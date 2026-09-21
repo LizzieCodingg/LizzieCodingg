@@ -19,7 +19,8 @@ Hi! I’m Li — a web development student who loves:
 - soft spoken designs  
 - HTML/JS/PHP/CSS  
 - learning CSS animations  
-- building cute‑styled websites, tho I can do more than that  
+- building cute‑styled websites, tho I can do more than that
+- I speak 4 languages, which are English, Dutch, German and Swedish. (I am still partly learning swedish)  
 
 ---
 
