@@ -14,14 +14,14 @@
 ---
 
 ## 🌸 About Me
-Hi! I’m Liz/Louisa, a web development student who loves:
+Hiyaa! I’m Liz/Louisa, a webdev student who loves:
 - cute UI aesthetics  
 - soft spoken designs  
 - HTML/JS/PHP/CSS  
 - learning CSS animations  
 - building cute‑styled websites, tho I can do more than that
 
-- To speak 4 languages: English, Dutch, German and Swedish. (I'm still partly learning swedish)  
+- I speak 4 languages: English, Dutch, German and Swedish. (I'm still kind of learning swedish)  
 
 ---
 
