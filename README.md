@@ -15,13 +15,13 @@
 
 ## 🌸 About Me
 Hiyaa! I’m Liz/Louisa, a webdev student who loves:
-- cute UI aesthetics  
-- soft spoken designs  
-- HTML/JS/PHP/CSS  
-- learning CSS animations  
-- building cute‑styled websites, tho I can do more than that
+- cute & unique UI designs  
+- good looking designs  
+- HTML/CSS/JS/PHP/MYSQLI
+- learning animations & shaders  
+- building cute‑styled websites, tho I can do more.
 
-- I speak 4 languages: English, Dutch, German and Swedish. (I'm still kind of learning swedish)  
+- I speak 4 languages: English, Dutch, German and Swedish. (I'm still partly learning swedish)  
 
 ---
 
@@ -35,15 +35,21 @@ Hiyaa! I’m Liz/Louisa, a webdev student who loves:
 </p>
 
 ---
-
 ## 🌸 Current Project
+My personal portofolio with:
+- information about myself.
+- contact information.
+- a LIVE wallpaper that changes from sun to moon depending on ur laptops current time.
+- Shader animations done with use of petals.
+
+## 🌸 First Project
 **Liz’s Boutique Webshop**  
 A full CRUD webshop with:
-- login & signup  
-- shopping cart  
-- product reviews  
-- sakura logo animation  
-- consistent layout across pages  
+- login & signup.  
+- shopping cart.  
+- product reviews.  
+- sakura logo animation.  
+- consistent layout across pages.  
 
 ---
 
