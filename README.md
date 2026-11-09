@@ -35,12 +35,19 @@ Hiyaa! I’m Liz/Louisa, a webdev student who loves:
 </p>
 
 ---
-## 🌸 Current Project
+## 🌸 Current Projects
 My personal portofolio with:
 - information about myself.
 - contact information.
 - a LIVE wallpaper that changes from sun to moon depending on ur laptops current time.
 - Shader animations done with use of petals.
+
+A mini videogame inspired by Priare King from Stardew Valley:
+- cat entity (you play as the cat).
+- mice enemies.
+- ball of yarn as weapon.
+- milk, catnip and more as buffs.
+- different levels (working on this).
 
 ## 🌸 First Project
 **Liz’s Boutique Webshop**  
