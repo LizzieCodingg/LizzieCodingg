@@ -22,7 +22,8 @@ Hiyaa! I’m Liz/Louisa, a webdev student who loves:
 - building cute‑styled websites, tho I can do more.
 
 - I speak 4 languages: English, Dutch, German and Swedish. (I'm still partly learning swedish)  
-
+- I'm also learning to make animations using shaders, three.js and more.
+- I'm also learning to make minigames using javascript.
 ---
 
 ## 🌸 Tech Stack
