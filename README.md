@@ -70,6 +70,6 @@ A full CRUD webshop with:
 You can contact me at:
 <p align="center">
   <b>GitHub:</b> @LizzieCodingg  
-  <b>Private Email:</b> Louisasophie2008@gmail.com
+  <b>Private Email:</b> Louisasophie2008@gmail.com <br>
   <b>School Email: </b> 40214216@yonder.nl
 </p>
