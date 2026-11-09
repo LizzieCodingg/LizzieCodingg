@@ -31,7 +31,7 @@ Hiyaa! I’m Liz/Louisa, a webdev student who loves:
 - I'm also learning to make minigames using javascript.
 ---
 
-## 🌸 Tech Stack
+## 🖥️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -41,7 +41,7 @@ Hiyaa! I’m Liz/Louisa, a webdev student who loves:
 </p>
 
 ---
-## 🌸 Current Projects
+## 🖥️ Current Projects
 My personal portofolio with:
 - information about myself.
 - contact information.
@@ -55,7 +55,7 @@ A mini videogame inspired by Priare King from Stardew Valley:
 - milk, catnip and more as buffs.
 - different levels (working on this).
 
-## 🌸 First Project
+## 🖥️ First Project
 **Liz’s Boutique Webshop**  
 A full CRUD webshop with:
 - login & signup.  
