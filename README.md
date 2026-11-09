@@ -67,7 +67,9 @@ A full CRUD webshop with:
 ---
 
 ## 🌸 Contact
+You can contact me at:
 <p align="center">
   <b>GitHub:</b> @LizzieCodingg  
   <b>Email:</b> Louisasophie2008@gmail.com
+  <b>school Email: </b> 40214216@yonder.nl
 </p>
